@@ -8,35 +8,11 @@
 
 **This points a radar at all of them — in one command.**
 
+<img src="docs/dashboard.svg" alt="Example claude-code-radar dashboard: a terminal showing projects sorted by activity, with stale-project and uncommitted-change alerts" width="700">
+
 </div>
 
 ---
-
-```
-===============================================
-  MISSION CONTROL — 2026-06-24 22:02
-===============================================
-
-  Projects found: 6
-
---- NEEDS ATTENTION ---------------------------
-  (*)  my-website        — 15 uncommitted changes
-  (!)  data-cleaner      — last touched 2026-06-08 (stale > 14d)
-
---- ALL PROJECTS (most recent first) ----------
-
-  image-classifier  — last 2026-06-24 | no-git
-    Project Rules
-
-  analysis-pipeline — last 2026-06-24 | no-git
-    analysis-pipeline — nightly sales ETL
-
-  my-website        — last 2026-06-22 | main (15 uncommitted)
-    working rules for my-website
-
-  ... (sorted by most recent) ...
-===============================================
-```
 
 > One command in. A full status board out. No clicking through folders, no `ls` archaeology, no "wait, what was I doing here?"
 

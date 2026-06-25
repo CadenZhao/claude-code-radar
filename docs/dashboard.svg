@@ -1,0 +1,27 @@
+<svg width="700" viewBox="0 0 680 412" role="img" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Menlo','Consolas','Liberation Mono',monospace">
+<title>Example claude-code-radar dashboard</title>
+<desc>A terminal window showing the Mission Control dashboard with example project names, color-coded for attention items.</desc>
+<rect x="8" y="8" width="664" height="396" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<path d="M8 38 h664" stroke="#30363d" stroke-width="1"/>
+<circle cx="30" cy="23" r="6" fill="#ff5f56"/>
+<circle cx="50" cy="23" r="6" fill="#ffbd2e"/>
+<circle cx="70" cy="23" r="6" fill="#27c93f"/>
+<text x="340" y="27" text-anchor="middle" font-size="12" fill="#8b949e">mission-control — zsh</text>
+<g font-size="13" xml:space="preserve">
+<text x="28" y="74" fill="#3fb950" font-weight="500">===============================================</text>
+<text x="28" y="92" fill="#3fb950" font-weight="500">  MISSION CONTROL — 2026-06-24 22:02</text>
+<text x="28" y="110" fill="#3fb950" font-weight="500">===============================================</text>
+<text x="28" y="138" fill="#c9d1d9">  Projects found: <tspan fill="#e6edf3" font-weight="500">4</tspan></text>
+<text x="28" y="166" fill="#e6edf3" font-weight="500">--- NEEDS ATTENTION ---------------------------</text>
+<text x="28" y="184" fill="#c9d1d9">  <tspan fill="#d29922" font-weight="500">(*)</tspan>  my-website        — 15 uncommitted changes</text>
+<text x="28" y="202" fill="#c9d1d9">  <tspan fill="#f85149" font-weight="500">(!)</tspan>  data-cleaner      — last touched 2026-06-08 (stale &gt; 14d)</text>
+<text x="28" y="230" fill="#e6edf3" font-weight="500">--- ALL PROJECTS (most recent first) ----------</text>
+<text x="28" y="258" fill="#e6edf3" font-weight="500">  image-classifier  <tspan fill="#8b949e" font-weight="400">— last 2026-06-24 | no-git</tspan></text>
+<text x="28" y="276" fill="#8b949e">    Project Rules</text>
+<text x="28" y="300" fill="#e6edf3" font-weight="500">  analysis-pipeline <tspan fill="#8b949e" font-weight="400">— last 2026-06-24 | no-git</tspan></text>
+<text x="28" y="318" fill="#8b949e">    analysis-pipeline — nightly sales ETL</text>
+<text x="28" y="342" fill="#e6edf3" font-weight="500">  my-website        <tspan fill="#8b949e" font-weight="400">— last 2026-06-22 | main (15 uncommitted)</tspan></text>
+<text x="28" y="360" fill="#8b949e">    working rules for my-website</text>
+<text x="28" y="388" fill="#3fb950" font-weight="500">===============================================</text>
+</g>
+</svg>
