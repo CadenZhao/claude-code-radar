@@ -1,0 +1,9 @@
+# Build / distribution artifacts
+claude-code-radar.tar.gz
+*.tar.gz
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# OS cruft
+.DS_Store
