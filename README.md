@@ -8,7 +8,7 @@
 
 **This points a radar at all of them — in one command.**
 
-<img src="docs/dashboard.svg" alt="Example claude-code-radar dashboard: a terminal showing projects sorted by activity, with stale-project and uncommitted-change alerts" width="700">
+<img src="docs/dashboard.png" alt="Example claude-code-radar dashboard: a terminal showing projects sorted by activity, with stale-project and uncommitted-change alerts" width="700">
 
 </div>
 
